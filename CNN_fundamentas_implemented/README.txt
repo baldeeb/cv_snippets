@@ -1,0 +1,2 @@
+### Purpose
+Using neural networks has become easy with all the libraries readily available and languages that are dedicated. In this project, implementations of some functions are explored and used to implement a basic neural network that managed to learn number identification on the MNIST database. 
